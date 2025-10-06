@@ -12,14 +12,13 @@ File or Folder | Purpose
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
 
-
-## Next Steps
-
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+1st Page : select sap domain
+![image_alt](https://github.com/ShivamSinghRJ/sap_resource_management_cap/blob/1c5d3614dc74861ebe9bc2b7c98744b7a4ef46ef/1.jpg)
 
 
-## Learn More
+2nd page : Employee with domain
+![image_alt](https://github.com/ShivamSinghRJ/sap_resource_management_cap/blob/1c5d3614dc74861ebe9bc2b7c98744b7a4ef46ef/2.jpg)
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+
+3rd Page : Upskilling plan for particular employee..
+![image_alt](https://github.com/ShivamSinghRJ/sap_resource_management_cap/blob/1c5d3614dc74861ebe9bc2b7c98744b7a4ef46ef/3.jpg)
